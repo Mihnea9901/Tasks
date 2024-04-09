@@ -48,7 +48,7 @@ int main(void) {
     obj6 = std::move(obj5);
 
     std::cout << "obj6: " << *obj6.getVal() << std::endl;
-
+    //apelare fara obj
     Rules::sum();
     
     return 0;
