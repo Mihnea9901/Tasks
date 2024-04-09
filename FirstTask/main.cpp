@@ -80,7 +80,7 @@ int main(void) {
     //putem apela functia daca ptr-ul nu a fost sters
     sharedPtr->getInfo();
     }else{
-        std::cout << "ptr-ul a fost sters";
+        std::cout << "ptr-ul a fost sters" << std::endl;
     }
 
     return 0;
