@@ -1,4 +1,4 @@
-#include </home/projectx/accademyprojects/FirstTask/Car.h>
+#include "Car.h"
 
 /* reguli Singleton
     1. constructori private

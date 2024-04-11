@@ -1,7 +1,7 @@
 #include <iostream>
-#include </home/projectx/accademyprojects/FirstTask/Opel.h>
-#include </home/projectx/accademyprojects/FirstTask/Audi.h>
-#include </home/projectx/accademyprojects/FirstTask/Rules.cpp>
+#include "Opel.h"
+#include "Audi.h"
+#include "Rules.cpp"
 
 int main(void) {
 
