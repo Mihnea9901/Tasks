@@ -1,3 +1,0 @@
-/home/projectx/accademyprojects/FirstTask/build/CMakeFiles/rebuild_cache.dir
-/home/projectx/accademyprojects/FirstTask/build/CMakeFiles/edit_cache.dir
-/home/projectx/accademyprojects/FirstTask/build/CMakeFiles/tasks.dir
