@@ -1,7 +1,8 @@
 #include <iostream>
-#include "Opel.h"
-#include "Audi.h"
 #include "Rules.cpp"
+#include "Audi.h"
+#include "Opel.h"
+
 
 int main(void) {
 
@@ -43,6 +44,7 @@ int main(void) {
     Rules obj5 = std::move(obj4);
     
     std::cout << "obj5: " << *obj5.getVal() << std::endl;
+    
     //test move operator
     Rules obj6(66);
     obj6 = std::move(obj5);
